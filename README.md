@@ -27,3 +27,5 @@ CVE-2020-14882
 CVE-2021-21972
 
 CVE-2022-1388
+
+Follina Exploitation
